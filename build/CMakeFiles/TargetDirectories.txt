@@ -1,0 +1,3 @@
+/home/avery/pi-zero-bot/build/CMakeFiles/brain.dir
+/home/avery/pi-zero-bot/build/CMakeFiles/edit_cache.dir
+/home/avery/pi-zero-bot/build/CMakeFiles/rebuild_cache.dir

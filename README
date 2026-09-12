@@ -1,0 +1,12 @@
+how 2 build:
+
+this project is set up to cross compile for arm1176jzf-s
+
+the rpi zero w 1.1 sysroot is included in this repo in take a guess where
+you will need clang, compiler-rt, lld, cmake and ninja
+
+i would use cmake and ninja:
+
+mkdir build && cd build
+cmake -GNinja -DCMAKE_TOOLCHAIN_FILE=../zero.toolchain.cmake ..
+ninja
