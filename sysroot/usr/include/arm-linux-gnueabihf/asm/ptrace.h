@@ -1,1 +1,0 @@
-../../../lib/linux/uapi/arm/asm/ptrace.h
